@@ -1,0 +1,11 @@
+.active{
+    display: block;
+}
+.deactive{
+    display: none;
+}
+.icon-check{
+    width: 25px;
+    height: 25px;
+    color: black;
+}

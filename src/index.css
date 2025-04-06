@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme{
+  --color-dark-blue: #09122C;
+  --color-beet-red: #872341;
+  --color-brick-red: #BE3144;
+  --color-terra-cotta: #E17564;
+  --color-edit-btn: #ffaa00; 
+  --color-edit-btn-hover: #e69900;
+  --color-save-btn: #28c76f; 
+  --color-save-btn-hover: #22b063;
+  --color-delete-btn: #ff4d4d;
+  --color-delete-btn-hover: #e63b3b;
+  --color-clear-all-btn: #00d4ff; 
+  --color-clear-all-btn-hover:  #00b8e6;
+}
