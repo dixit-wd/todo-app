@@ -14,14 +14,14 @@ This is a simple and stylish **Todo List App** built using React. You can add, c
 
 ## 📸 Screenshots
 
-### ✅ Mark Todo as Complete
-![Completed Task](./completed-task.png)
-
 ### ➕ Add New Todo
-![Add Todo](./add-todo.png)
+![Todo App](./public/todo-app.png)
+
+### ✅ Mark Todo as Complete
+![Completed Todo](./public/completed-todo.png)
 
 ### ✏️ Edit Todo
-![Edit Todo](./edit-todo.png)
+![Edit Todo](./public/edit-todo.png)
 
 ## 🚀 Getting Started
 
