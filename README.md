@@ -27,7 +27,7 @@ This is a simple and stylish **Todo List App** built using React. You can add, c
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/dixit-wd/todo-app.git
    cd todo-list-app
    ```
 
